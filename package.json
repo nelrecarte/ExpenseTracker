@@ -10,7 +10,7 @@
     "react-dom": "^18.0.0",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4",
-    "homepage": "https://nelrecarte.github.io/Expense-Tracker"
+    "homepage": "https://nelrecarte.github.io/ExpenseTracker/"
   },
   "scripts": {
     "start": "react-scripts start",
